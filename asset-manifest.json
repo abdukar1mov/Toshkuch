@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14dd034b.css",
+    "main.js": "/static/js/main.df723636.js",
+    "static/media/Coocking.mp4": "/static/media/Coocking.6851f66f9705081ff730.mp4",
+    "static/media/Cola.jpg": "/static/media/Cola.fd35f236e381b11723e4.jpg",
+    "static/media/Menu-image.jpg": "/static/media/Menu-image.e488a57cd554e9a8e72a.jpg",
+    "static/media/errorpage.gif": "/static/media/errorpage.8d3e321f68df319bae4d.gif",
+    "static/media/Asosiy-sect-image.png": "/static/media/Asosiy-sect-image.0a422f5ef45d7848c100.png",
+    "static/media/BandQilish-image.png": "/static/media/BandQilish-image.d221071365b026c46824.png",
+    "static/media/Chustiy-pic.png": "/static/media/Chustiy-pic.5930a3fde50870fbc6c6.png",
+    "static/media/Haqida-pic.png": "/static/media/Haqida-pic.d49f83a054c6f2ac60bb.png",
+    "static/media/Asosiy.jpg": "/static/media/Asosiy.97969b48781cd6e71f7b.jpg",
+    "static/media/Aloqa-image.jpg": "/static/media/Aloqa-image.5138f5af0d0a00658390.jpg",
+    "static/media/SokMultifrukt-menu.jpg": "/static/media/SokMultifrukt-menu.22bd62a44abfd01571b5.jpg",
+    "static/media/SvejiySalad.jpg": "/static/media/SvejiySalad.8b1b75cafcd1010058be.jpg",
+    "static/media/Manti-menu.jpg": "/static/media/Manti-menu.2422507b173753fc0ee7.jpg",
+    "static/media/TiftelShorva-menu.jpg": "/static/media/TiftelShorva-menu.bb5821da63b2251ba456.jpg",
+    "static/media/QoraChoy.jpg": "/static/media/QoraChoy.4b62c290f560b3b7644d.jpg",
+    "static/media/NoxatShorak-menu.jpg": "/static/media/NoxatShorak-menu.b8c7837255c0832bcf51.jpg",
+    "static/media/BizHaqimizda-image.jpg": "/static/media/BizHaqimizda-image.2ad2080e745e4ce3cdf4.jpg",
+    "static/media/logo.png": "/static/media/logo.e87c4fc4df19a5812d79.png",
+    "static/media/Bistrogen-menu.jpg": "/static/media/Bistrogen-menu.b8a8b528417448d359cd.jpg",
+    "static/media/Mastava-menu.jpg": "/static/media/Mastava-menu.68dc8d3e52d6ff0499da.jpg",
+    "static/media/ShirmoyNon.jpg": "/static/media/ShirmoyNon.34de596943188982d036.jpg",
+    "static/media/QatiqliSalad-menu.jpg": "/static/media/QatiqliSalad-menu.2eb5915684c9d8ce9e01.jpg",
+    "static/media/Bishtveks-menu.jpg": "/static/media/Bishtveks-menu.ce69547b2fa1f38cc1b0.jpg",
+    "static/media/empty-cart.png": "/static/media/empty-cart.72e00edc7adc1466c1a7.png",
+    "static/media/Tuzlama.jpg": "/static/media/Tuzlama.06d8eb1163ed2957c044.jpg",
+    "static/media/LimonChoy.jpg": "/static/media/LimonChoy.bc7d82b3afa95b915f5a.jpg",
+    "static/media/Moshkichiri-menu.jpg": "/static/media/Moshkichiri-menu.b6fcb6bfa5d5d51107cf.jpg",
+    "index.html": "/index.html",
+    "main.14dd034b.css.map": "/static/css/main.14dd034b.css.map",
+    "main.df723636.js.map": "/static/js/main.df723636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dd034b.css",
+    "static/js/main.df723636.js"
+  ]
+}
